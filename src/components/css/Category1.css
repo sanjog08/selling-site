@@ -1,0 +1,16 @@
+.main-section {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.section-body-img {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+.section-body-img img {
+    width: 100%;
+    height: auto;
+    display: block;
+}

@@ -1,0 +1,10 @@
+.main-body {
+    margin: 2rem 20rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+}
+
+.main-body hr { 
+    width: 100%;
+  } 

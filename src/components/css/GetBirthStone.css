@@ -1,0 +1,27 @@
+.birth-body {
+    width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.birth-left {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+.birth-left img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.birth-right {
+    width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+}

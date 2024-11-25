@@ -1,0 +1,11 @@
+.intro-photo {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+.intro-photo img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
